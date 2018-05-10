@@ -1,4 +1,4 @@
-# navier-stokes-solver
+# fluid-dynamics
 A java implementation of a Navier-Stokes equation solver.
 <br/><br/>
 <img src="navier-stokes-solver.png"/>
